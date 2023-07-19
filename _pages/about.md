@@ -16,4 +16,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a third-year Ph.D. student at Computer Science, University College London, advised by Prof. [Jun Wang](http://www0.cs.ucl.ac.uk/staff/jun.wang/). My research interests focus on Large Language Model, Single/Multi/Meta Reinforcement Learning. I did my undergraduate at the Department of Automation, Tsinghua University.
+I am a third-year Ph.D. student at Computer Science, University College London, advised by Prof. [Jun Wang](http://www0.cs.ucl.ac.uk/staff/jun.wang/). My research interests lie in Large Language Model, Single-agent/Multi-agent and Meta Reinforcement Learning.
+
+Previously I did my undergraduate at the Department of Automation, Tsinghua University.

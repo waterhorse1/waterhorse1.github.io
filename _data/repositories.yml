@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - waterhorse1
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - waterhorse1/ChessGPT
+  - metaopt/torchopt
+  - waterhorse1/NAC
+  - waterhorse1/MELU_pytorch

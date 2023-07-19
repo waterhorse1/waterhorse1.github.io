@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-06-20 00:00:00-0400
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement.
+Pre-print version of our new work [ChessGPT - Bridging Policy Learning and Language Modeling](https://arxiv.org/abs/2306.09200) is out. Also check our open-source [code](https://github.com/waterhorse1/ChessGPT), [model](https://huggingface.co/Waterhorse/chessgpt-base-v1), and [data](https://huggingface.co/datasets/Waterhorse/chess_data).

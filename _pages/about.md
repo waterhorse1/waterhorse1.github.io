@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Research Scientist in [Google DeepMind](https://deepmind.google/). I am graduating from Computer Science, University College London, advised by Prof. [Jun Wang](http://www0.cs.ucl.ac.uk/staff/jun.wang/). Previously I did my undergraduate at the Department of Automation, Tsinghua University.
+I am a Senior Research Scientist in [Google DeepMind](https://deepmind.google/). I graduated from Computer Science, University College London, advised by Prof. [Jun Wang](http://www0.cs.ucl.ac.uk/staff/jun.wang/). Previously I did my undergraduate at the Department of Automation, Tsinghua University.
 
-My research interests lie in Large Language Model, Single-agent/Multi-agent and Meta Reinforcement Learning.
+My research interests lie in Large Language Model and Reinforcement Learning.
 
